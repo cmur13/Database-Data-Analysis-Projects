@@ -20,5 +20,4 @@ This repository contains lab work and exercises completed as part of my universi
   - Writing and testing SQL code in a real MySQL environment.
   - Using MySQL Workbench and command-line tools to manage and interact with databases.
 
-## 🗂️ Folder Structure
 
