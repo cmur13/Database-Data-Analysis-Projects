@@ -47,6 +47,7 @@ This assignment delves into advanced pandas functionalities using the elections.
 - GroupBy Operations: Aggregating data based on specific criteria to derive meaningful insights.
 - Pivot Tables: Reshaping data for better analysis and visualization.
 - Joining Tables: Combining multiple datasets to enrich the analysis.
+
 **Tools Used:**  
 - Python (Pandas)  
 - Jupyter Notebook / Google Colab  
