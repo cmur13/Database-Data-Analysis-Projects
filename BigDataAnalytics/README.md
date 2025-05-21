@@ -62,3 +62,24 @@ This open-ended assignment requires creating six different plots using Tableau t
 
 **Tools Used:**  
 - Tableau Desktop / Tableau Public
+
+### K-Means & Hierarchical Agglomerative Clustering
+
+**Description:**  
+This assignment focuses on implementing and analyzing K-Means Clustering and Hierarchical Agglomerative Clustering techniques using Python. The goal is to understand how these clustering methods group data points based on similarity.
+
+**Tools Used:**  
+- Python (with libraries such as pandas and matplotlib)  
+- Jupyter Notebook
+
+### HuggingFace Pipelines
+
+**Description:**  
+In this project, I used HuggingFace’s Transformers pipelines to perform various NLP tasks. For each pipeline, two example uses are provided to demonstrate capabilities such as feature extraction, masked word prediction, named entity recognition, question answering, sentiment analysis, summarization, text generation, translation, and zero-shot classification.
+
+**Tools Used:**  
+- Python  
+- HuggingFace Transformers library  
+- Google Colab / Jupyter Notebook
+
+
