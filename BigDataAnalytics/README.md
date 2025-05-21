@@ -56,5 +56,9 @@ This open-ended assignment focuses on building custom visualizations to explore 
 - Python (`matplotlib`, `seaborn`)
 - Jupyter Notebook / Google Colab
 
+### 📈 Tableau Visualization
+**Description:**  
+This open-ended assignment requires creating six different plots using Tableau to explore and visualize a chosen dataset(netflix.csv). The goal is to use Tableau’s features to uncover insights and present data effectively.
 
-
+**Tools Used:**  
+- Tableau Desktop / Tableau Public
