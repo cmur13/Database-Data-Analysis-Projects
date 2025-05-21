@@ -15,7 +15,6 @@ This folder contains coursework and hands-on exercises from my Big Data Analytic
 ## 📘 Projects Overview
 
 ### 📄 Pandas I (elections.csv)
-**Objective:** Practice basic data manipulation techniques using the `pandas` library on an elections dataset.
 
 **Description:**  
 Using the `elections.csv` dataset, this assignment walks through foundational Pandas operations which include reading CSV files, inspecting data types and shapes, and filtering and slicing rows/columns
@@ -25,8 +24,6 @@ Using the `elections.csv` dataset, this assignment walks through foundational Pa
 - Jupyter Notebook / Google Colab  
 
 ### 📄 Pandas II (elections.csv + SSA Baby Names Dataset)
-**Objective:** Build on foundational skills by practicing more advanced data extraction and transformation techniques using pandas.
-
 **Description:**  
 This assignment walks through more advanced functions in pandas using two datasets: elections.csv and the SSA baby_names dataset. The tasks focus on manipulating and cleaning real-world datasets. It emphasizes: 
 - Data extraction using loc, iloc, and bracket notation ([])
@@ -40,8 +37,6 @@ This assignment walks through more advanced functions in pandas using two datase
 - Jupyter Notebook / Google Colab  
 
 ### 📄 Pandas III (elections.csv)
-**Objective:** Apply advanced data manipulation techniques in pandas, focusing on grouping, pivoting, and joining datasets.
-
 **Description:**  
 This assignment delves into advanced pandas functionalities using the elections.csv and SSA baby names datasets. It emphasizes:
 - GroupBy Operations: Aggregating data based on specific criteria to derive meaningful insights.
@@ -50,4 +45,16 @@ This assignment delves into advanced pandas functionalities using the elections.
 
 **Tools Used:**  
 - Python (Pandas)  
-- Jupyter Notebook / Google Colab  
+- Jupyter Notebook / Google Colab
+
+
+### 📊 Matplotlib / Seaborn Visualization
+**Description:**  
+This open-ended assignment focuses on building custom visualizations to explore and communicate insights from two datasets: `elections.csv` and the SSA `baby_names` dataset. Students were asked to create three visualizations for each dataset using either `Matplotlib` or `Seaborn`.
+
+**Tools Used:**
+- Python (`matplotlib`, `seaborn`)
+- Jupyter Notebook / Google Colab
+
+
+
