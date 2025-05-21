@@ -1,6 +1,6 @@
 # 📈 Big Data Analytics Projects
 
-This folder contains coursework and hands-on exercises from my Big Data Analytics/Cloud Computing class, focusing on data manipulation, processing, and analysis using tools like **Pandas**, **Jupyter Notebooks**, **Tableau** and large datasets.
+This folder contains coursework and hands-on exercises from my Big Data Analytics/Cloud Computing class, focusing on data manipulation, processing, and analysis using tools like **Pandas**, **Jupyter Notebooks**, **Tableau**.
 
 ## 🧠 Topics Covered
 
