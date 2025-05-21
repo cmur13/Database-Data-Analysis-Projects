@@ -82,4 +82,12 @@ In this project, I used HuggingFace’s Transformers pipelines to perform variou
 - HuggingFace Transformers library  
 - Google Colab / Jupyter Notebook
 
+### Logistic Regression & Dimensionality Reduction
+
+**Description:**  
+This assignment involves implementing Logistic Regression for classification tasks and applying Principal Component Analysis (PCA) for dimensionality reduction. The goal is to understand model fitting, evaluation, and how reducing features can impact performance.
+
+**Tools Used:**  
+- Python (with libraries such as scikit-learn, pandas, matplotlib)  
+- Jupyter Notebook
 
